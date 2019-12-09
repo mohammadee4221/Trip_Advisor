@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Fameena\Desktop\TripAdvisor\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4270133782.index
+2794802407.index
+1871946648.index
+525942758.index
+630512295.index
+2727727087.index
+792315467.index

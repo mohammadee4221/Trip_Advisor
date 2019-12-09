@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\Fameena\Desktop\TripAdvisor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\792315467.index
+\TripAdvisor\src\main\resources
